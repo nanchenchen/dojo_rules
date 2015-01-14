@@ -1,4 +1,4 @@
 Just trying and learning things.
-Javascript
-rebase
-lalalal
+* Javascript
+* rebase
+* lalalal
